@@ -16,9 +16,6 @@
     "url": "https://github.com/ken-matsui/eslint-config-react/issues"
   },
   "homepage": "https://github.com/ken-matsui/eslint-config-react#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "dependencies": {
     "eslint-plugin-react": "^7.29.4"
   },
